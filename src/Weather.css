@@ -1,8 +1,9 @@
 .Weather {
-
+    margin-top: 200px;
 }
 
 .Weather input {
+    
     border: 1px solid;
     padding: 1em;
     font-size: 1em;
